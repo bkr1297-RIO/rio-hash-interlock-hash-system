@@ -1,0 +1,13 @@
+allowed_repos:
+  - "bkr1297-RIO/rio-hash-interlock-hash-system"
+  - "bkr1297-RIO/RIO-Interlock-System"
+
+blocked_patterns:
+  - "expand permissions"
+  - "grant access"
+  - "escalate privileges"
+  - "override policy"
+  - "disable governance"
+  - "bypass approval"
+  - "remove restrictions"
+  - "modify config.yaml"
